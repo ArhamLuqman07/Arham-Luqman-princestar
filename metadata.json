@@ -1,0 +1,8 @@
+{
+  "name": "PRINCE STAR — LUXURY LIFESTYLE",
+  "description": "Premium Pakistani men's watches, eyewear, leather wallets, footwear, clothing, and accessories storefront with full order tracking, social verification rewards, and business management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
